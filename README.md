@@ -6,3 +6,6 @@ Projetos criados no curso de Web Moderno da Cod3r.
 
 <h2> Calculadora React </h2>
 <img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/calculadora-react/calculadora-react.png" alt="Calculadora"/>
+
+<h2> Projeto Temporizador </h2>
+<img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/temporizador/temporizador.png" alt="Temporizador"/>
