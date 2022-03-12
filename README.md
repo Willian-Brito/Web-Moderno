@@ -10,4 +10,7 @@ Projetos criados no curso de Web Moderno da Cod3r.
 
   <h2> Projeto Temporizador </h2>
   <img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/temporizador/temporizador.png" alt="Temporizador"/>
+
+  <h2> Projeto Temporizador </h2>
+  <img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/montyhall/montyhall.png" alt="Temporizador"/>
 </div>
