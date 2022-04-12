@@ -13,4 +13,7 @@ Projetos criados no curso de Web Moderno da Cod3r.
 
   <h2> Projeto Montyhall </h2>
   <img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/montyhall/montyhall.png" alt="Montyhall"/>
+
+  <h2> Projeto Palavras mais Usadas em um Arquivo de Legenda </h2>
+  <img src="https://raw.githubusercontent.com/Willian-Brito/Web-Moderno/main/most-user-words/palavras-mais-usadas.png" alt="palavras-mais-usadas"/>
 </div>
